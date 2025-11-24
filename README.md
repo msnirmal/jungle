@@ -1,2 +1,2 @@
-# jungle
-repo for a jungle themed website
+# Jungle
+## Repo for a jungle themed website
